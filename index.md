@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Gerarduu/gerrisuvil.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Created with love by Gerard Riera Puig.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
